@@ -1,0 +1,16 @@
+p {
+    background: wheat;
+    box-shadow: 0 0 0 20px #655;
+    padding: 1rem;
+    margin: 5rem;
+}
+
+p.two-borders{
+    border:solid 20px orangered;
+}
+
+p.many-borders{
+    border:solid 15px orangered;
+    box-shadow: 0 0 0 15px #655, 0 0 0 30px black, 0 0 0 45px white;
+}
+
