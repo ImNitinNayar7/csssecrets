@@ -1,0 +1,11 @@
+body{
+    padding:3rem;
+}
+
+
+p {
+    background: whitesmoke;
+    border: 10px solid orangered;
+    outline: 15px dotted darkred;
+    padding:.5rem;
+}
