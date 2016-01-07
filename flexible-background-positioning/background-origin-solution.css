@@ -1,0 +1,20 @@
+div{
+    margin:2em;
+}
+
+div#dry {
+    padding: 10px;
+    background: url(trex.jpg) no-repeat #58a;
+    background-position: right 10px bottom 10px;
+    max-width: 30em;
+    min-height: 25em;
+}
+
+div#not-dry {
+    background: url(trex.jpg)
+    no-repeat bottom right #58a;
+    background-origin: content-box;
+    max-width: 30em;
+    min-height: 25em;
+    padding: 10px;
+}
