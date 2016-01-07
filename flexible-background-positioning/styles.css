@@ -1,0 +1,14 @@
+/**
+ * Flexible background positioning
+ * via extended background-position
+ */
+
+div {
+    background: url(trex.jpg) no-repeat bottom right #58a;
+    background-position: right 20px bottom 10px;
+
+
+    min-height: 25em;
+    padding: 10px;
+    color: white;
+}
